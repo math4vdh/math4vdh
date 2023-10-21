@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mathias.
-- 🌱 I’m currently learning more about computerscience and electronics.
+- 🌱 I’m currently learning more about Computer Science and Electronics.
 - 📫 Reach me at mathias.vanderhallen@student.kuleuven.be
 
 <!---
